@@ -21,11 +21,11 @@
 # definition file).
 #
 
-# inherit MI A2 lineage device config
+# inherit MI A2 colt device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_jasmine_sprout.mk
+    $(LOCAL_DIR)/colt_jasmine_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_jasmine_sprout-eng \
-    lineage_jasmine_sprout-userdebug \
-		lineage_jasmine_sprout-eng
+    colt_jasmine_sprout-eng \
+    colt_jasmine_sprout-userdebug \
+		colt_jasmine_sprout-eng
