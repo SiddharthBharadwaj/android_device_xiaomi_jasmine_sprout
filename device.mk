@@ -143,3 +143,8 @@ PRODUCT_DEVICE := jasmine_sprout
 PRODUCT_MODEL := Mi A2 (AOSP)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
+
+
+# Wallpapers
+#PRODUCT_PACKAGES += \
+ #   PixelLiveWallpaperPrebuilt

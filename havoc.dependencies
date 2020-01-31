@@ -1,13 +1,13 @@
 [
   {
-    "repository":  "CarbonROM/android_device_xiaomi_sdm660-common",
+    "repository":  "SiddharthBharadwaj/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch":      "lineage-17.0"
+    "branch":      "havoc-3.x"
   },
   {
-    "repository":  "CarbonROM/android_kernel_xiaomi_sdm660",
+    "repository":  "SiddharthBharadwaj/android_kernel_xiaomi_jasmine_sprout",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "kernel.lnx.4.4.r38-rel-wifi"
+    "branch":      "eas-v2"
   },
   {
     "remote":      "gh",
